@@ -1,0 +1,14 @@
+C:\Users\helen\OneDrive\Documentos\MIASHS DCISS\Calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helen\OneDrive\Documentos\MIASHS DCISS\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\helen\OneDrive\Documentos\MIASHS DCISS\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
+C:\Users\helen\OneDrive\Documentos\MIASHS DCISS\Calculator\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\helen\OneDrive\Documentos\MIASHS DCISS\Calculator\bin\Debug\net7.0\Calculator.exe
+C:\Users\helen\OneDrive\Documentos\MIASHS DCISS\Calculator\bin\Debug\net7.0\Calculator.deps.json
+C:\Users\helen\OneDrive\Documentos\MIASHS DCISS\Calculator\bin\Debug\net7.0\Calculator.runtimeconfig.json
+C:\Users\helen\OneDrive\Documentos\MIASHS DCISS\Calculator\bin\Debug\net7.0\Calculator.dll
+C:\Users\helen\OneDrive\Documentos\MIASHS DCISS\Calculator\bin\Debug\net7.0\Calculator.pdb
+C:\Users\helen\OneDrive\Documentos\MIASHS DCISS\Calculator\obj\Debug\net7.0\Calculator.dll
+C:\Users\helen\OneDrive\Documentos\MIASHS DCISS\Calculator\obj\Debug\net7.0\refint\Calculator.dll
+C:\Users\helen\OneDrive\Documentos\MIASHS DCISS\Calculator\obj\Debug\net7.0\Calculator.pdb
+C:\Users\helen\OneDrive\Documentos\MIASHS DCISS\Calculator\obj\Debug\net7.0\Calculator.genruntimeconfig.cache
+C:\Users\helen\OneDrive\Documentos\MIASHS DCISS\Calculator\obj\Debug\net7.0\ref\Calculator.dll
